@@ -1,0 +1,16 @@
+GET https://localhost:8080/book/allBook
+
+###
+
+GET http://localhost:8080/ssmbuild/book/allBook
+
+<> 2020-08-04T123445.404.html
+
+###
+
+GET http://localhost/book/allBook
+
+<> 2020-08-04T123410.404.html
+
+###
+
