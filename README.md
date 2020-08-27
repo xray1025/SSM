@@ -1,2 +1,5 @@
 # SSM
-ssm框架
+书籍管理系统
+- Spring
+- SpringMVC
+- Mybatis
